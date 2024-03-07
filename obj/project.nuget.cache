@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "/wQfyZXYErTy49O1nxhtvYYP3QF/0P6m2g//MlmVzpo9I8WzpDDcIBHCGvZYUP/I/G41PWTOZ7lYedmR+wMi8g==",
+  "success": true,
+  "projectFilePath": "/Users/sattyamkishormishra/Development/RedisAPI/RedisAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/sattyamkishormishra/.nuget/packages/microsoft.aspnetcore.openapi/8.0.2/microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
+    "/Users/sattyamkishormishra/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/sattyamkishormishra/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.0-preview.1.24080.9/microsoft.extensions.caching.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "/Users/sattyamkishormishra/.nuget/packages/microsoft.extensions.caching.stackexchangeredis/9.0.0-preview.1.24081.5/microsoft.extensions.caching.stackexchangeredis.9.0.0-preview.1.24081.5.nupkg.sha512",
+    "/Users/sattyamkishormishra/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.1.24080.9/microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "/Users/sattyamkishormishra/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0-preview.1.24080.9/microsoft.extensions.logging.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "/Users/sattyamkishormishra/.nuget/packages/microsoft.extensions.options/9.0.0-preview.1.24080.9/microsoft.extensions.options.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "/Users/sattyamkishormishra/.nuget/packages/microsoft.extensions.primitives/9.0.0-preview.1.24080.9/microsoft.extensions.primitives.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "/Users/sattyamkishormishra/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/sattyamkishormishra/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/Users/sattyamkishormishra/.nuget/packages/stackexchange.redis/2.6.122/stackexchange.redis.2.6.122.nupkg.sha512",
+    "/Users/sattyamkishormishra/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/sattyamkishormishra/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/sattyamkishormishra/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/sattyamkishormishra/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/sattyamkishormishra/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
